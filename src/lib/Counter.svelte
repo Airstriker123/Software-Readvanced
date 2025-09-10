@@ -8,5 +8,3 @@
 <button onclick={increment}>
   count is {count}
 </button>
-
-
