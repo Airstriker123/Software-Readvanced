@@ -8,3 +8,6 @@
 /client/build
 client/build/assets/index-BmCQPcYy.js
 /client/dev-dist
+/doc/vid
+/server/.database
+/server/instance
